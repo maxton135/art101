@@ -1,0 +1,19 @@
+h1 {
+  color: purple;
+  font-size: 200%
+}
+
+p {
+  text-indent: 20px;
+  margin-left: 10px;
+}
+
+#diveone {
+  background-color: yellow;
+  width: 500px;
+  min-height: 300px;
+  padding: 10px;
+  margin: 10px;
+  border: dashed 5px #444444;
+  font-size: 20px;
+}
