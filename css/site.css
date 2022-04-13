@@ -17,3 +17,7 @@ p {
   border: dashed 5px #444444;
   font-size: 20px;
 }
+
+#my-portrait {
+    width: 500px;
+}
