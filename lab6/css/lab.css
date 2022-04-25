@@ -1,0 +1,27 @@
+.sections {
+  border: 5px outset navy;
+  background-color: lightblue;
+  margin: 10px;
+}
+
+.headings {
+  font-family: sans-serif;
+  color: navy;
+  padding-left: 10px;
+}
+
+li {
+  font-family: sans-serif;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+#output {
+  padding:20px;
+}
+
+h1 {
+  font-family: sans-serif;
+}
