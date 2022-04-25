@@ -10,6 +10,10 @@
   padding-left: 10px;
 }
 
+#output {
+  padding: 20px;
+}
+
 li {
   font-family: sans-serif;
 }
