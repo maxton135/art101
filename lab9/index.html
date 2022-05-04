@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lab 9 - JavaScript for the Web</title>
+	<script src="js/lab.js" defer></script>
+	<link rel="stylesheet" type="text/css" href="../css/site.css">
+	<link rel="stylesheet" type="text/css" href="css/lab.css">
+</head>
+<body>
+	<h1>Lab 9 - JavaScript for the Web</h1>
+	<div id="challengediv" class="sections">
+		<h1 class="headings">Challenge</h1>
+		<ul>
+			<li>Our task is to add two 'p' elements into our output div using JavaScript</li>
+		</ul>
+	</div>
+
+	<div id="problemsdiv" class="sections">
+		<h1 class="headings">Problems</h1>
+		<ul>
+			<li>I linked the JavaScript file without adding "defer".</li>
+			<li>This resulted in the JS file running before any elements were declaring creating errors.</li>
+		</ul>
+	</div>
+
+	<div id="resultsdiv" class="sections">
+		<h1 class="headings">Results</h1>
+		<p>The following inserted p elements from the JS file: </p>
+		<div id="output"></div>
+		<p>The following is experimental things from task X<br><br></p>
+		<p id="output2">Click anywhere on the page for a surprise...</p>
+		<p>Hover over the purple box and see what happens...</p>
+		<div id="output3" onmouseover="this.innerHTML += 'ha';">ha</div>
+</body>
+</html>
