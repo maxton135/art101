@@ -1,0 +1,60 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  text-align: center;
+}
+
+.sections {
+  border: 5px outset grey;
+  background-color: lightpink;
+  margin: 10px;
+  padding:10px;
+}
+
+.headings {
+  font-family: sans-serif;
+  color: black;
+  padding-left: 10px;
+}
+
+.special {
+  border: 5px outset black;
+  background-color: magenta;
+  margin: 10px;
+  padding: 10px;
+}
+
+.special-button {
+  background-color: yellow;
+}
+
+#output {
+  padding: 20px;
+}
+
+#output3 {
+  padding: 50px;
+  background-color: purple;
+}
+
+li {
+  font-family: sans-serif;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family: sans-serif;
+}
+
+h2 {
+  font-family: sans-serif;
+}
+
+#resultsdiv {
+  justify-content: center;
+}
